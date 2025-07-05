@@ -1,4 +1,4 @@
-# Odia Literature Summarizer with Voice (GenAI Hackathon)
+# Odia Literature Summarizer with Voice
 
 A Streamlit-based web app that summarizes Odia literature from uploaded PDFs and reads it out loud using Odia Text-to-Speech (TTS).
 
