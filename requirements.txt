@@ -1,0 +1,14 @@
+streamlit
+PyPDF2 
+langdetect
+transformers 
+torch 
+sentencepiece
+accelerate
+torchaudio
+soundfile
+transformers 
+huggingface-hub 
+numpy
+sarvamai
+dotenv
